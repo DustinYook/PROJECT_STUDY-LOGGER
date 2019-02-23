@@ -25,7 +25,8 @@
 ![signup](https://github.com/DustinYook/JavaStudyLogger/blob/master/signup.PNG)
 
 ## 로그작성
-![record](https://github.com/DustinYook/JavaStudyLogger/blob/master/record.PNG)
+![record1](https://github.com/DustinYook/JavaStudyLogger/blob/master/record.PNG)
+![record2](https://github.com/DustinYook/JavaStudyLogger/blob/master/record2.PNG)
 
 ## 학습인증게시판
 ![board](https://github.com/DustinYook/JavaStudyLogger/blob/master/board.PNG)
