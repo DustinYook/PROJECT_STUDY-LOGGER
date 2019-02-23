@@ -15,9 +15,9 @@
 
 
 
-## About
+## Main
 
-![about](https://github.com/DustinYook/DjangoWordCount/blob/master/about.PNG)
+![main](https://github.com/DustinYook/JavaStudyLogger/blob/master/main.PNG)
 
 
 
