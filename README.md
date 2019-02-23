@@ -10,17 +10,25 @@
 ------
 
 ## 웹 사이트 아키텍처
+![web_struct](https://github.com/DustinYook/JavaStudyLogger/blob/master/web_struct.PNG)
 
-![home](https://github.com/DustinYook/JavaStudyLogger/blob/master/web_struct.PNG)
+## 사이트맵
+![sitemap](https://github.com/DustinYook/JavaStudyLogger/blob/master/sitemap.PNG)
 
-
-
-## Main
-
+## 메인화면
 ![main](https://github.com/DustinYook/JavaStudyLogger/blob/master/main.PNG)
 
+## 회원가입/회원정보
+![signup](https://github.com/DustinYook/JavaStudyLogger/blob/master/signup.PNG)
 
+## 로그작성
+![record](https://github.com/DustinYook/JavaStudyLogger/blob/master/record.PNG)
 
-## Count
+## 학습인증게시판
+![board](https://github.com/DustinYook/JavaStudyLogger/blob/master/board.PNG)
 
-![result](https://github.com/DustinYook/DjangoWordCount/blob/master/count.PNG)
+## 게시글작성
+![writePost](https://github.com/DustinYook/JavaStudyLogger/blob/master/writePost.PNG)
+
+## 로그조회
+![showLog](https://github.com/DustinYook/JavaStudyLogger/blob/master/showLog.PNG)
