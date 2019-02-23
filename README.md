@@ -35,11 +35,3 @@
 
 ## 로그조회
 ![showLog](https://github.com/DustinYook/JavaStudyLogger/blob/master/showLog.PNG)
-## 서비스 소개
-![PPT1](https://github.com/DustinYook/RubyOnRails_NihonGo/blob/master/%ED%94%BC%ED%94%BC%ED%8B%B01.PNG)
-![PPT2](https://github.com/DustinYook/RubyOnRails_NihonGo/blob/master/%ED%94%BC%ED%94%BC%ED%8B%B02.PNG)
-![PPT3](https://github.com/DustinYook/RubyOnRails_NihonGo/blob/master/%ED%94%BC%ED%94%BC%ED%8B%B03.PNG)
-![PPT4](https://github.com/DustinYook/RubyOnRails_NihonGo/blob/master/%ED%94%BC%ED%94%BC%ED%8B%B04.PNG)
-![PPT5](https://github.com/DustinYook/RubyOnRails_NihonGo/blob/master/%ED%94%BC%ED%94%BC%ED%8B%B05.PNG)
-![PPT6](https://github.com/DustinYook/RubyOnRails_NihonGo/blob/master/%ED%94%BC%ED%94%BC%ED%8B%B06.PNG)
-![PPT7](https://github.com/DustinYook/RubyOnRails_NihonGo/blob/master/%ED%94%BC%ED%94%BC%ED%8B%B07.PNG)
