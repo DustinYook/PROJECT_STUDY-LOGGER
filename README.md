@@ -17,55 +17,10 @@
 
 #### 3. 기존의 단어 수만 세는 것 외에 공백을 제외하거나 포함한 총 글자 수를 세어줌
 
-```java
-def result(request): 
 
-​    text = request.GET['fulltext']
+## 웹 사이트 아키텍처
 
-​    
-
-​    length = list(text)
-
-​    count = length.count(' ')
-
-​    for x in range(0,count):
-
-​        length.remove(' ')
-
-​    words = text.split()
-
-​    word_dictionary = {}
-
-​    for word in words:
-
-​        if word in word_dictionary:
-
-​            word_dictionary[word] += 1
-
-​        else:
-
-​            word_dictionary[word] = 1
-
-​    return render(request, 'result.html', {'full': text, 'total' : len(words), 'dictionary': word_dictionary.items(), 'textlength': len(length),'totaltextlength': len(text) })
-
-​    
-
-def count(request):
-
-​    full_text = request.GET['fulltext']
-
-​    word_list = full_text.split()
-
-​    return render(request, 'wordcount/count.html', {'fulltext': full_text, 'total': len(word_list) })
-```
-
-
-
-
-
-## Home
-
-![home](https://github.com/DustinYook/DjangoWordCount/blob/master/home.PNG)
+![home](https://github.com/DustinYook/JavaStudyLogger/blob/master/web_struct.PNG)
 
 
 
