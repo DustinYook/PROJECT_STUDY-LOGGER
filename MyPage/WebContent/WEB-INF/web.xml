@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  
+  <!-- 요청이 들어왔을 때 반환할 리소스를 지정 -->
+  <welcome-file-list> <!-- 웹에서 request를 받았을 때 안의 리소스를 반환 -->
+    <welcome-file>main.jsp</welcome-file> <!-- 위에 정의되어 있을수록 반환 우선순위가 높음 -->
+  </welcome-file-list>
+  
+</web-app>
