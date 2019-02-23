@@ -5,8 +5,16 @@
 2. 소비세 8%를 고려한 실제지불금액 계산
 3. 동전을 최소화하는 지불방법 추천
 
+------
+
 #### 사용언어
 Ruby on Rails Framework, HTML/HTML5, CSS/CSS3, Javascript
+
+------
+
+#### 해커톤 사진
+![hackathon1](https://github.com/DustinYook/RubyOnRails_NihonGo/blob/master/hackathon.jpg)
+![hackathon2](https://github.com/DustinYook/RubyOnRails_NihonGo/blob/master/hackathon2.jpg)
 
 ------
 
