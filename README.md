@@ -5,6 +5,9 @@
 2. 소비세 8%를 고려한 실제지불금액 계산
 3. 동전을 최소화하는 지불방법 추천
 
+#### 사용언어
+Ruby on Rails Framework, HTML/HTML5, CSS/CSS3, Javascript
+
 ------
 
 ## 서비스 소개
