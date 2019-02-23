@@ -7,8 +7,8 @@
 
 ------
 
-#### 사용언어
-Ruby on Rails Framework, HTML/HTML5, CSS/CSS3, Javascript
+#### 사용 기술스택
+Ruby on Rails Framework, HTML/HTML5, CSS/CSS3, Javascript, AWS Cloud9
 
 ------
 
