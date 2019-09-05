@@ -14,5 +14,5 @@
 
 -----
 
-#### 웹 사이트 아키텍처
+#### 웹 사이트 
 ![web_struct](https://github.com/DustinYook/JavaStudyLogger/blob/master/web_struct.PNG)
