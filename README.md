@@ -8,8 +8,11 @@
 
 ------
 
+![studylogger1](https://github.com/DustinYook/Project_StudyLogger/blob/master/image/studylogger1.gif)
 
+![studylogger2](https://github.com/DustinYook/Project_StudyLogger/blob/master/image/studylogger2.gif)
 
-## 웹 사이트 아키텍처
+-----
+
+#### 웹 사이트 아키텍처
 ![web_struct](https://github.com/DustinYook/JavaStudyLogger/blob/master/web_struct.PNG)
-
